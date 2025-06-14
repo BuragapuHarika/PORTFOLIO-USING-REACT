@@ -1,11 +1,10 @@
-import React from 'react'
 import styled from 'styled-components'
 
 const Document = styled.img`
     display: none;
     height: 70px;
     width: fit-content;
-    background-color: #000;
+   'linear-gradient(135deg, #1f1c2c, #928dab)',
     border-radius: 10px;
     &:hover{
         cursor: pointer;

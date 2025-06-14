@@ -8,6 +8,7 @@
      background-color: transparent;
      font-size: 20px;
      font-family: 'Poppins',sans-serif;
+     background-color:linear-gradient(135deg, #1f1c2c, #928dab);
 }
 .navbar{
     width: 100%;

@@ -1,6 +1,6 @@
 
 body {
-  background-color: #f0f4f8; /* Light background */
+ background:linear-gradient(135deg, #1f1c2c, #928dab); /* Light background */
   color: #049cee;            /* Navy text */
   font-family: 'Poppins', sans-serif;
   margin: 0;

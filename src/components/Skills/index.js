@@ -2,13 +2,16 @@ import styled from 'styled-components';
 import { skills } from '../../data/constants';
 
 const Container = styled.div`
-display: flex;
-flex-direction: column;
-justify-content: center;
-position: relative;
-z-index: 1;
-align-items: center;
-`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  align-items: center;
+  background: ${({ theme }) => theme.gradientBg};  // Uses dynamic gradient
+  padding: 60px 20px;
+`;
+
 
 const Wrapper = styled.div`
 position: relative;

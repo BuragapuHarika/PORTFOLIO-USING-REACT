@@ -16,6 +16,7 @@ body{
   margin: 0px !important;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
+  background-color: linear-gradient(135deg, #1f1c2c, #928dab);
 }
 
 /* width */
